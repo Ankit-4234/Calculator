@@ -1,2 +1,2 @@
 # Calculator
-Basic calculator app using html css.
+Basic calculator using html css.
